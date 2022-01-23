@@ -1,0 +1,26 @@
+Source changelog:
+- Added OTA support
+- Added GamingMode tile
+- Added powershare QS tile for wireless supported device
+- Added cutout force full screen
+- Added toggle to camera/mic privacy indicator
+- Added toggle to disable night light on FOD
+- Added toggle to forcing small keyguard clock
+- Added support for enforcing a minimum delay between notification sounds of an app
+- Added Nameless-AOSP UI in recovery
+- Added three more demo image on color settings
+- Moved privacy indicator toggle to statusbar items
+- Don't change nouns in summaries to lower case for German
+- Refactor Wifi Calling description text 
+- Improved location privacy indicator toggle
+- Fixed network padding issues
+- Minor improvements and fixes
+ 
+Device changelog:
+- kernel: Merged 'LA.UM.9.12.r1-13700-SMxx50.QSSI12.0' CAF tag
+- DeviceSettings: Added edge touch switch (It's Improve multi-touch experience at the edges of the screen)
+- Update OTA assertions (It's fixes the product name mismatch while flashing in sideload)
+- Disable night light for fod
+- Disable tap to show ambient display by default
+- Fixed lags in OnePlus Camera photo 48MP mode
+- Fixed random audio shuttle in youtube vanced for some users
