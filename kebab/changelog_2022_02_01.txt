@@ -1,0 +1,22 @@
+Source changelog:
+- Added customization for brightness slider position & automatic brightness icon
+- Added dynamic VoLTE/VoWiFi icon
+- Added support to enable high touch sample & unlimit edge touch mode in GamingMode
+- Added Acherus, OxygenOS & PUI icon packs
+- Added Statusbar Signal & Wi-Fi icons themes
+- Added black theme in monet settings
+- Added more fonts & Fixed some fonts not working
+- Allow configuring gesture bar radius
+- Fixed glitchy charging info on lockscreen
+- Fixed some AR apps crashing
+- Improved GamingMode QS tile
+- Simplify our Logo in Settings
+- Stability & Performance improvements
+
+Device changelog:
+- Switch to Illusion X kernel and compiled with neutron clang version 14
+- Update blobs from OOS 11.2.7.7
+- Update OnePlus Camera from OOS 11.2.7.7
+- General fingerprint Improvement
+- Improved software rounded corner
+- Other cleanup & improvements
