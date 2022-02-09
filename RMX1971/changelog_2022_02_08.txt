@@ -1,0 +1,16 @@
+Source changelog:
+- Merged February security patch (android-12.0.0_r29)
+- Added toggle for one-shot auto brightness
+- Added toogle for tethering to use VPN upstreams
+- Added toggle to disable unlimited photos storage
+- Added support for per-app volume tuning
+- Added CPU Info QS tile
+- Make keyguard lock icon haptic follow fod haptic settings
+- Improvements in Game Space
+- Other cleanup and improvements
+
+Device changelog:
+- Switched to User Build from Userdebug 
+- Updated to Raven February FP
+- SafetyNet passes by default
+-  Fixed Battery Section showing "Connected but not charging" even though charger not plugged in
