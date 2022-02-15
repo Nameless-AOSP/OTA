@@ -1,0 +1,23 @@
+Source Changelog:
+- Added navbar layout inversion tuning
+- Added outline iconpack
+- Added refresh rate QS tile
+- Allow to configure portrait mode volume dialog position
+- Fixed double tap gesture not working after reboot / SystemUI restart
+- Fixed screen off gesture Alipay payment action not working
+- Fixed toast icon switch
+- Improved GameSpace overlay
+- Make night light transition faster
+- Spoof iQOO 8 pro for "honor of kings" to unlock 120hz for supported devices
+- Use Android 12L style for Internet & Screenrecord dialogs
+- Use Android 13 media output picker
+- Misc cleanup and optimizations
+
+Device Changelog:
+- Fixed dolby switch crash
+- Fixed echo's in calls
+- Fixed low Mic issues in calls
+- Fixed mismatch udfps icon in AuthDialog
+- Fixed power button animation
+- Switch back to bsp graphics blobs
+- Cleanup trees again
