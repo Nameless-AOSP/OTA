@@ -1,9 +1,0 @@
-Source Changelog:
-- Merged android-12.0.0_r32
-- Fixed circle battery QS tinting
-- Fixed navbar inverse layout not working after reboot
-- Misc fixed and cleanup
-
-Device Changelog:
-- Fixed camera failure on third-party apps
-- Update OnePlus Settings icon
