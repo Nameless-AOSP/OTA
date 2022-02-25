@@ -1,0 +1,14 @@
+24/02/2022
+
+Source Changelog:
+- Added App Lock
+- Added Face Unlock
+- Added more fonts
+- Fixed gaming mode settings not applied when overlay menu is disabled
+- Removed Rom logo from Device Info Page. Simple best :)
+- Removed Refresh Rate tile for Realme 5 Pro as its not applicable
+- Misc. cleanup and improvement
+
+Device Changelog:
+- Upstreamed Nexus kernel to latest 4.9.303
+- Safetynet passes by default
