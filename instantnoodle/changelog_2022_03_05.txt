@@ -1,0 +1,19 @@
+Source Changelog
+- Added back gesture long swipe actions
+- Added click to take partial screenshot
+- Added haptic feedback to brightness/volume sliders
+- Added live volume steps
+- Added system-level Lawnchair switcher
+- Allow to disable face unlock haptic feedback
+- Allow to skip manually confirmation when face unlock authenticated
+- Allow to switch back to old style battery graph in Settings
+- Fixed media output seekbar in dark mode
+- Fixed SystemUI crash in lockscreen
+- Improved App Lock
+- Updated several system icons
+- Misc changes that I may forgot
+
+Device Changelog
+- Disabled lockscreen charging info for now
+- Fixed ring when making calls
+- Hide CNE app from location indicator
