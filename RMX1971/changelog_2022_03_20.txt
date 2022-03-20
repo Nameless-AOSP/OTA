@@ -1,0 +1,18 @@
+06/03/2022
+
+Source Changelog
+Source changelog
+- Added battery stats reset
+- Added optimized charging support for OnePlus devices
+- Fully rebased source to Android 12.1 with March security patch
+- Due to rebase, following features are missing for now and will be added back in futre
+  - Brightness bar customizations
+  - Lawnchair switcher (Lawnchair doesn't work properly on 12.1 yet)
+  - Monet settings (Luminance, Chroma factor..)
+  - Quick tap
+  - Smart space (Lock screen weather)
+
+Device Changelog:
+* Upstreamed Kharame kernel to latest 4.9.307
+* Merge latest CAF tag 'LA.UM.9.8.r1-04700-SDM710.0' 
+* Safetynet passes by default
