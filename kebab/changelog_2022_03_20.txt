@@ -1,0 +1,22 @@
+Note: 
+- Dirty flash fine but if facing any weird issues then do clean flash
+- FOD may or may not work in custom kernel
+
+Source changelog
+- Added battery stats reset
+- Added optimized charging support for OnePlus devices
+- Fully rebased source to Android 12.1 with March security patch
+- Due to rebase, following features are missing for now and will be added back in future updates
+  • Brightness bar customizations
+  • Lawnchair switcher (Lawnchair doesn't work properly on 12.1 yet)
+  • Monet settings
+  • Quick tap
+
+Device changelog
+- Initial Android 12.1 release
+- Update graphics blobs from LA.UM.9.14.r1-18900-LAHAINAQSSI12.0
+- Update display blobs from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
+- Update CarrierConfig from OOS12
+- Fixed telephony crash on first boot
+- Fixed wifidisplay green tint
+- Kernel compiled with neutron clang 15
