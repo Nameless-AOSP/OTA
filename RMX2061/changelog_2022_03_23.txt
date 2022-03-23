@@ -1,0 +1,26 @@
+23/03/2022
+Device Changelog:
+- Fixed Know issues
+- Initial Android 12.1 release
+- Cleaned Trees
+- Enforcing Build
+- 90fps support
+- March SP
+- many more misc. changes i don't remember
+
+Source changelog
+- Added battery stats reset
+- Added optimized charging support for OnePlus devices
+- Fully rebased source to Android 12.1 with March security patch
+- Due to rebase, following features are missing for now and will be added back
+in future updates
+  • Brightness bar customizations
+    • Lawnchair switcher (Lawnchair doesn't work properly on 12.1 yet)
+      • Monet settings
+        • Quick tap
+
+
+
+Note: 
+- Dirty flash fine but if facing any weird issues then do clean flash
+- Any Bugs report #bugreport #Nameless and with logs!!
