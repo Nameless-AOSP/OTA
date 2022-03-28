@@ -1,0 +1,21 @@
+Note
+- Dirty flash fine 
+- FOD may not work in custom kernel's so don't spam in device support group
+
+Source Changelog
+- Merged tag 'android-12.1.0_r2'
+- Added Monet Settings
+- Added brightness slider changes 
+- Added switch data saver icon 
+- Added game props for mobile legends
+- Added customize tiles layout in QS panel
+- Disable face enroll on Setup Wizard
+- Force fullscreen for Google Dialer
+
+Device Changelog
+- Switch to perf+ kernel
+- Fixed random crashdump
+- Updated OnePlus Camera from Oxygen OS 12 Stable
+- Added back OnePlus Settings translation
+- Switch back to LA.UM.9.12.r1-13300-SMxx50.QSSI12.0 Graphics blobs
+- Minor fixes and improvement
