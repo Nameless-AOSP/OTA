@@ -1,0 +1,14 @@
+Source changelog
+- Merged tag 'android-12.1.0_r2'
+- Added Monet customization & Black theme
+- Added QS brightness slider customization
+- Added QS tiles layout customization
+- Added Lockscreen media art toggle
+- Added missing settings of touchscreen gestures for OnePlus devices
+- Fixed auto hide for center/right clock
+- Removed status bar black tint for Google Dialer
+- Spoof device to Mi 10 for mobile legends
+- Other minor changes
+
+Device changelog
+- Enabled status bar burn-in-protection
