@@ -1,0 +1,18 @@
+Source changelog
+- Merged April security patch (android-12.1.0_r4)
+- Added more hotspot settings (AP Band, Hidden network, Device blacklist etc)
+- Allow 2 more columns for qs tiles
+- Refactor updater app
+- Fixed random misplaced qs tiles layout
+- Fixed unconditional qs panel expansion in settings
+- Fixed glitchy charging info on lockscreen
+- Fixed auto answer call triggered even after turning off game mode
+- Fixed notification overlay spam with old messages in game mode
+- Fixed weird lockscreen clock font
+- Other fixes & improvements
+
+Device changelog
+- Fixed night mode intensity
+- Update CarrierConfig from OOS 12 Open beta 1
+- Update GPS from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
+- Minor cleanup & improvements
