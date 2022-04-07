@@ -1,0 +1,26 @@
+Note
+- Supported latest Oxygen or Hydrogen OS 11 firmware
+- Dirty flash from early build is fine
+
+Source changelog
+- Merged April security patch (android-12.1.0_r4)
+- Added more hotspot settings (AP Band, Hidden network, Device blacklist etc)
+- Allow 2 more columns for qs tiles
+- Refactor updater app
+- Fixed random misplaced qs tiles layout
+- Fixed unconditional qs panel expansion in settings
+- Fixed glitchy charging info on lockscreen
+- Fixed auto answer call triggered even after turning off game mode
+- Fixed notification overlay spam with old messages in game mode
+- Fixed weird lockscreen clock font
+- Other fixes & improvements
+
+Device changelog
+- Switch back to stock display stack
+- Update ACDB blobs from OOS 11.2.8.8 LE28DA 
+- Set default screen density to 420 DPI
+- Refactor and cleanup OnePlus Settings
+- Fixed wrong displaying device name for OnePlus 9R device
+- Fixed Warp Charging not displaying in lockscreen
+- Fixed Nightlight in all color modes
+- Refactor and cleanup device tree and sync latest los changes
