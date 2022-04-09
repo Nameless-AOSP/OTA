@@ -1,0 +1,2 @@
+-rootdir: Hide Magisk Better 
+-Fixes & Some Improvemnets
