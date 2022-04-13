@@ -1,1 +1,0 @@
-- Fixed second sim not working for OnePlus 9R device
