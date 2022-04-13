@@ -4,10 +4,12 @@ Note
 
 Source changelog
 - Introduce preferred network tile
-- Introduce automated Sleep Mode
+- Introduce Automated Sleep Mode
 - Implement background process killer 
+- Added expanded volume panel
 - Use Mi 11 Ultra games prop for mobile Legends
 - Allow alert slider changes in pocket mode
+- Fixed launcher search bar color
 - Misc fixes and improvements
 
 Device changelog
