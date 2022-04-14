@@ -1,0 +1,14 @@
+14/04/2022
+
+Source changelog
+- Added automatic sleep mode
+- Added preferred network QS tile to quick switch between 4g/5g
+- Added expandable volume dialog
+- Left volume panel now works in landscape mode too
+- Fixed pixel launcher search bar color in light mode
+- Switch to Mi 11 Ultra for games prop
+- Other fixes & improvements
+
+Device changelog
+- Reverted Forced full screen for AOSP Dialer
+- Safetynet passes by default
