@@ -1,0 +1,27 @@
+Note
+- Supported latest Oxygen or Hydrogen OS 11 firmware
+- Dirty flash from early build is fine
+
+Source Changelog
+- Allow adding some system apps into app lock list
+- Allow to ignore secure flag for windows (Remove screenshot & screenrecord limits)
+- Allow to force show media controller in volume dialog
+- Added sound QS tile
+- Fixed location mode reset after turning off sleep mode
+- Fixed sensor not turned on after turning off sleep mode
+- Fixed gboard translation not working
+- Fixed random screen off delay
+
+Device Changelog
+- General haptic improvements
+  • Make gboard vibration strength settings actually working
+  • Make slider haptic feedback progressive
+  • Strengthen heavy click effect
+- Fixed color mode
+- Fixed magisk sideload in recovery
+- Update blobs from LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
+- Update Graphics from LA.UM.9.14.r1-19300-LAHAINA .QSSI13.0
+- Update Bluetooth from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+- Improved Ram management
+- Improved battery backup and performance
+- Minor cleanup and fixes
