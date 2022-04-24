@@ -1,6 +1,12 @@
+** HOTFIX Build **
+
 Note
 - Supported latest Oxygen or Hydrogen OS 11 firmware
 - Dirty flash from early build is fine
+
+Hotfix Changelog
+- Fixed few apps cannot read storage
+- Update WiFi Display blobs from LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
 
 Source Changelog
 - Allow adding some system apps into app lock list
