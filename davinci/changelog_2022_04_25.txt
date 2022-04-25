@@ -1,0 +1,14 @@
+Source changelog
+- Allow adding some system apps into app lock list
+- Allow to ignore secure flag for windows (Remove screenshot & screenrecord limits)
+- Allow to force show media controller in volume dialog
+- Added sound QS tile
+- Fixed location mode reset after turning off sleep mode
+- Fixed sensors not turned on after turning off sleep mode
+- Fixed gboard translation not working
+- Fixed random screen off delay
+
+Device Changelog
+- Initial Build
+- Vantom Kernel 4.14.275
+- Ships with Pixel Mod Launcher (Thanks @Team Files)
