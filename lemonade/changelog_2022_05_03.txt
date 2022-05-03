@@ -1,0 +1,53 @@
+Note
+- Clean flash recommended
+
+Source Changelog
+- Merged May security patch (android-12.1.0_r5)
+- Introduce automated sleep mode
+- Implement background process killer 
+- Added preferred network QS tile to quick switch between 4g/5g
+- Added expanded volume panel
+- Added switch data saver icon 
+- Added game props for mobile legends
+- Added customize tiles layout in QS panel
+- Added more hotspot settings (AP Band, Hidden network, Device blacklist etc)
+- Added sound QS tile
+- Added AdGuard & Cloudflare private DNS providers
+- Added Custom carrier label & Carrier label placement
+- Added Dora & Weed status bar icons
+- Allow alert slider changes in pocket mode
+- Allow adding some system apps into app lock list
+- Allow to ignore secure flag for windows (Remove screenshot & screenrecord limits)
+- Allow to force show media controller in volume dialog
+- Allow 2 more columns for qs tiles
+- Allow to hide back gesture arrow
+- Allow to switch slot in recovery for AB devices
+- Disable face enroll on Setup Wizard
+- Force fullscreen for Google Dialer
+- Use Mi 11 Ultra games prop for mobile Legends
+- Refactor updater app
+- Fixed random misplaced qs tiles layout
+- Fixed unconditional qs panel expansion in settings
+- Fixed glitchy charging info on lockscreen
+- Fixed auto answer call triggered even after turning off game mode
+- Fixed notification overlay spam with old messages in game mode
+- Fixed weird lockscreen clock font
+- Fixed partial screenshot
+- Fixed wireless emergency alerts crash in settings
+- Fixed pixel launcher search bar color in light mode
+
+Device Changelog
+- Initial Android 12.1/12L build
+- Switch to user build
+- Switch to los kernel
+- Improved haptic feedback
+- Improved battery backup and performance
+- Update blobs, configs, props and vendor scripts from LA.UM.9.14.r1-18900-LAHAINA.QSSI12.0
+- Update CarrierConfig from OOS 12 LE2121_11.C.48
+- Fixed WiFi Display
+- Fixed telephony crash on first boot
+- Fixed Warp Charging not displaying in lockscreen
+- Fixed color modes
+- Make slider haptic feedback progressive
+- Refactor OnePlusSettings
+- Refactor and cleanup device tree and sync latest los changes
