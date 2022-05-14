@@ -1,0 +1,26 @@
+Note
+- Supported latest Oxygen or Hydrogen OS 11 firmware
+- Dirty flash from early build is fine
+
+Source changelog
+- Launcher changes
+   - Added Nameless Launcher
+   - Added latest dev build Lawnchair
+   - Added Rootless Launcher Switcher
+   - Pixel launcher is still default launcher
+- Introduce iOS-like immersive gesture bar
+- Added reTicker (New style nofication ticker)
+- Allow to disable application downgrade limit
+- Blocked some apps from location indicator
+- Added more touchscreen gesture actions for OnePlus devices
+- Disabled ringer button in volume dialog for OnePlus devices
+- Under the hood cleanup & improvement
+
+Device changelog
+- Added Dolby Codecs Support AC3, AC4, EAC3-JOC (Fixes Apple Music Dolby)
+- Added OnePlus Optimized Charging
+- Fixed WiFi Display not working for some devices
+- OnePlusSettings: Implement scheduled Wireless charger quiet mode
+- Address sepolicy denials
+- Disable lockscreen charging remaining time  (Reason for disable: It's show inaccurate result)
+- Misc fixes and improvements
