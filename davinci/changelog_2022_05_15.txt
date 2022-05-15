@@ -1,0 +1,18 @@
+Nameless-AOSP: 15/05/2022
+
+Source Changelogs:
+- Launcher changes
+   - Added Nameless Launcher
+   - Added latest dev build Lawnchair
+   - Added Rootless Launcher Switcher
+   - Pixel launcher is still default launcher
+- Introduce iOS-like immersive gesture bar
+- Added reTicker (New style nofication ticker)
+- Allow to disable application downgrade limit
+- Blocked some apps from location indicator
+- Added more touchscreen gesture actions for OnePlus devices
+- Disabled ringer button in volume dialog for OnePlus devices
+- Under the hood cleanup & improvement
+
+Device Changelog:
+-Some fixes & Improvements
