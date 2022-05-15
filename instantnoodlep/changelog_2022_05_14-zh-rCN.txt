@@ -1,0 +1,17 @@
+源码方面
+- 桌面相关的修改
+   - 加入 Nameless Launcher
+   - 加入最新 Dev 版 Lawnchair
+   - 自带启动器切换（无需 Root 和第三方模块，可从 Pixel Launcher, Nameless Launcher, Lawnchair 中任意切换）
+   - 默认桌面依旧是 Pixel Launcher
+- 加入沉浸式小横条开关
+- 加入 reTicker（新风格的浮动通知）
+- 加入允许应用降级安装的开关
+- 从位置指示器中排除一些应用
+- 禁用音量面板响铃模式按钮（避免与三段式开关冲突）
+- 优化系统流畅度，提高系统稳定性
+
+设备方面
+- 加入对 Apple Music 的杜比支持
+- 修复一加相机自拍闪退
+- 禁用一些无用调试

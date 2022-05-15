@@ -1,5 +1,3 @@
-24/04/2022
-
 Source changelog
 - Allow adding some system apps into app lock list
 - Allow to ignore secure flag for windows (Remove screenshot & screenrecord limits)
@@ -11,8 +9,6 @@ Source changelog
 - Fixed random screen off delay
 
 Device Changelog
+- Initial Build
+- Vantom Kernel 4.14.275
 - Ships with Pixel Mod Launcher (Thanks @Team Files)
-- Upstreamed Kharame Kernel to latest release 4.9.311
-- Fixed status bar height for certain apps
-- Enabled pre-rendering (improves FPS and reduces janks in scrolling)
-- Safetynet passes by default

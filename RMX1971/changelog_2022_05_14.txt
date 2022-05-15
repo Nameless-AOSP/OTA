@@ -1,0 +1,27 @@
+Nameless-AOSP: 14/05/2022
+
+Source changelog
+- Launcher changes
+   - Added Nameless Launcher
+   - Added latest dev build Lawnchair
+   - Added Rootless Launcher Switcher
+   - Pixel launcher is still default launcher
+- Introduce iOS-like immersive gesture bar
+- Added reTicker (New style nofication ticker)
+- Allow to disable application downgrade limit
+- Blocked some apps from location indicator
+- Added more touchscreen gesture actions for OnePlus devices
+- Disabled ringer button in volume dialog for OnePlus devices
+- Under the hood cleanup & improvement
+
+Device Changelog
+- Native video calling fixed
+- Default screen out time set to 15 Sec
+- Updated CNE, Radio Blobs from RUI2
+- Updated IImsRadio HAL to latest version 1.6
+- Updated QtiRadio version to 2.5
+- Updated IRTPService to 3.0
+- Updated  DPM, IMS, and RIL system blobs
+- Upreved  radio interfaces
+- Changed dalvik-heap config to 4gb
+- Upstreamed Kharame kernel to latest 4.9.313

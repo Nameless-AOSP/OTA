@@ -1,0 +1,5 @@
+Device Changelog:
+ -Initial Build
+ -Remove HOS calibration
+ -Updated PowerProfiles
+ -Use media codecs from CAF
