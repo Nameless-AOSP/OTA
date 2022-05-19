@@ -1,0 +1,18 @@
+Nameless-AOSP: 20/05/2022
+
+Source Changelog 
+- Merged May security patch (android-12.1.0_r5)
+- Added AdGuard & Cloudflare private DNS providers
+- Added Custom carrier label & Carrier label placement
+- Added Dora & Weed status bar icons
+- Added optimized charging QS tile for supported devices
+- Allow to hide back gesture arrow
+- Allow to switch slot in recovery for AB devices
+- Refactor QS tiles layout code (Previous settings will be revoked, set again
+in settings)
+- Fixed partial screenshot
+- Fixed wireless emergency alerts crash in settings
+- Maybe more that I forgot
+
+Device Changelog
+-Initial build 
