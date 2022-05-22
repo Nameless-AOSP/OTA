@@ -1,0 +1,21 @@
+Source Changelogs:
+
+• Added support to show battery info in settings
+• Improved scheduled AOD/Sleep mode
+• Fixed black theme for QS Panel
+• NamelessLauncher: Allow to apply themed icon for app drawer
+• NamelessLauncher: Fixed hidden apps
+• PixelLauncher & NamelessLauncher: Import more themed icon
+• Lawnchair: Updated to latest dev build
+• Minor cleanup & improvements
+
+Device Changelogs:
+
+• Apply latest kryo 785 and 385 optimizations
+• Bump SDK version to 30
+• Use QCOM implementation for audio effects
+• Enable Qualcomm TrueWireless Stereo
+• Fixup audio io policy voip_rx flags
+• Address some denials
+• Fix black screen in camera 
+
