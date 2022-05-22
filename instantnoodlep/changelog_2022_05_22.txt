@@ -1,0 +1,14 @@
+Source changelog
+- Added support to show battery info in settings
+- Improved scheduled AOD/Sleep mode
+- Fixed black theme for QS Panel
+- Improved reTicker
+- NamelessLauncher: Allow to apply themed icon for app drawer
+- NamelessLauncher: Fixed hidden apps
+- PixelLauncher & NamelessLauncher: Import more themed icon
+- Lawnchair: Updated to latest dev build
+- Minor cleanup & improvements
+
+Device changelog
+- Improved scheduled wireless charger quiet mode
+- Switched partial blobs back to stock OOS (You may need to repair your bluetooth devices)
