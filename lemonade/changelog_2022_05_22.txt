@@ -1,0 +1,19 @@
+Note
+- Supported latest Oxygen or Hydrogen OS 11 firmware
+- Dirty flash from early build is fine
+
+Source changelog
+- Added support to show battery info in settings
+- Improved scheduled AOD/Sleep mode
+- Fixed black theme for QS Panel
+- Improved reTicker
+- NamelessLauncher: Allow to apply themed icon for app drawer
+- NamelessLauncher: Fixed hidden apps
+- PixelLauncher & NamelessLauncher: Import more themed icon
+- Lawnchair: Updated to latest dev build
+- Minor cleanup & improvements
+
+Device changelog
+- Fixed stutters
+- Disable lockscreen charging remaining time (Reason for disable: It's show inaccurate result)
+- Switched partial blobs back to stock OOS (You may need to repair your bluetooth devices)
