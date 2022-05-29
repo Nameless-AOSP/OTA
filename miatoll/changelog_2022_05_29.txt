@@ -1,0 +1,17 @@
+Note
+- Be sure that you are latest A11 firmware before flashing
+- Flash using Nameless Recovery only
+- Clean flash from other ROMs required
+
+Source Changelog
+- Added support to show battery info in settings
+- Improved scheduled AOD/Sleep mode
+- Fixed black theme for QS Panel
+- NamelessLauncher: Allow to apply themed icon for app drawer
+- NamelessLauncher: Fixed hidden apps
+- PixelLauncher & NamelessLauncher: Import more themed icon
+- Lawnchair: Updated to latest dev build
+- Minor cleanup & improvements
+
+Device Changelog
+- Initial official build for miatoll
