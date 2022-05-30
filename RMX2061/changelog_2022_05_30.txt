@@ -1,0 +1,103 @@
+7/4/22
+Source changelog
+- Merged April security patch (android-12.1.0_r4)
+- Added more hotspot settings (AP Band, Hidden network, Device blacklist etc)
+- Allow 2 more columns for qs tiles
+- Refactor updater app
+- Fixed random misplaced qs tiles layout
+- Fixed unconditional qs panel expansion in settings
+- Fixed glitchy charging info on lockscreen
+- Fixed auto answer call triggered even after turning off game mode
+- Fixed notification overlay spam with old messages in game mode
+- Fixed weird lockscreen clock font
+- Other fixes & improvements
+
+14/4/22
+Source changelog
+- Added automatic sleep mode
+- Added preferred network QS tile to quick switch between 4g/5g
+- Added expandable volume dialog
+- Move volume dialog position in landscape mode too
+- Fixed pixel launcher search bar color in light mode
+- Switch to Mi 11 Ultra for games prop
+- Other fixes & improvements
+
+24/4/22
+Source changelog
+- Allow adding some system apps into app lock list
+- Allow to ignore secure flag for windows (Remove screenshot & screenrecord limits)
+- Allow to force show media controller in volume dialog
+- Added sound QS tile
+- Fixed location mode reset after turning off sleep mode
+- Fixed sensors not turned on after turning off sleep mode
+- Fixed gboard translation not working
+- Fixed random screen off delay
+
+4/5/2022
+Source changelog
+- Merged May security patch (android-12.1.0_r5)
+- Added AdGuard & Cloudflare private DNS providers
+- Added Custom carrier label & Carrier label placement
+- Added Dora & Weed status bar icons
+- Added optimized charging QS tile for supported devices
+- Allow to hide back gesture arrow
+- Allow to switch slot in recovery for AB devices
+- Refactor QS tiles layout code (Previous settings will be revoked, set again in settings)
+- Fixed partial screenshot
+- Fixed wireless emergency alerts crash in settings
+- Maybe more that I forgot
+
+14/5/2022
+Source changelog
+- Launcher changes
+   - Added Nameless Launcher
+   - Added latest dev build Lawnchair
+   - Added Rootless Launcher Switcher
+   - Pixel launcher is still default launcher
+- Introduce iOS-like immersive gesture bar
+- Added reTicker (New style nofication ticker)
+- Allow to disable application downgrade limit
+- Blocked some apps from location indicator
+- Added more touchscreen gesture actions for OnePlus devices
+- Disabled ringer button in volume dialog for OnePlus devices
+- Under the hood cleanup & improvement
+
+22/05/22
+Source changelog
+- Added support to show battery info in settings
+- Improved scheduled AOD/Sleep mode
+- Fixed black theme for QS Panel
+- Improved reTicker
+- NamelessLauncher: Allow to apply themed icon for app drawer
+- NamelessLauncher: Fixed hidden apps
+- PixelLauncher & NamelessLauncher: Import more themed icon
+- Lawnchair: Updated to latest dev build
+- Minor cleanup & improvements
+
+
+Device Changelogs:-
+- User Build
+- Enable Westwood TCP Congestion 
+- qcacld-3.0: Nuke rx_wakelock code      
+- Silence some log spam
+- Safetynet passed by default
+- Moved Realme Parts to System
+- Implement Google Battery HAL (maybe battery efficent)
+- Lowered Minimum Brightness
+- Add LockScreen Charge Overlay
+- Improved Touch Response
+- Improved smoothness
+- Fixed Iorap
+- Add msm irq config
+- Add packages for 3rd party camera to access
+- Fix status bar height
+- Lower Animation Speed 
+- Fixed Minor bugs present
+
+Note:- The Booting speed is slow because Dragonsoul Kernel is used 
+if you want to get fast booting speed use previous versions of dragonsoul or 
+use Rosetta/Rhinestone.
+
+Thanks to @Hello & @adbu_alkateb for testing
+
+and btw sorry for the delay :)
