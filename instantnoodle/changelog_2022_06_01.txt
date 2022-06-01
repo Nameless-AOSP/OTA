@@ -1,0 +1,22 @@
+Source changelog
+- Improved status bar brightness control
+- Improved QS header height & padding
+- Fixed ambient light color mode
+- Fixed lock screen after timeout
+- Fixed reTicker text invisible
+- OnePlus devices: Avoid changing ringer mode when change ring volume in vibrate & silent mode
+- OnePlus devices: Re-enable ringer mode in volume dialog
+- Nameless Launcher: Allow to hide status bar in home screen
+- Lawnchair: Updated to latest Dev build
+- Other cleanup and improvements
+
+Device changelog
+- OnePlus Settings: Added support to toggle off alert slider calibration (Helpful on random devices that alert slider doesn't work properly)
+- OnePlus Settings: Fully code refractor
+- Fixed bootanimation in FHD+ resolution (8 Pro)
+- Improved alert slider dialog padding (8 Pro)
+- Improved FOD icon radius (8 Pro)
+- Improved screen off animation location (8 Pro)
+- Kernel: Improved FHD+ display dimming (8 Pro)
+- Kernel: Increase DC-dimming threshold
+- Cleanup useless sepolicy rules
