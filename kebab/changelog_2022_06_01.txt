@@ -1,0 +1,24 @@
+Note
+- Supported latest Oxygen or Hydrogen OS 11 firmware
+- Dirty flash from early build is fine
+- Fingerprint may not work on custom kernel so don't spam in device support group
+
+Source changelog
+- Improved status bar brightness control
+- Improved QS header height & padding
+- Fixed ambient light color mode
+- Fixed lock screen after timeout
+- Fixed reTicker text invisible
+- OnePlus devices: Avoid changing ringer mode when change ring volume in vibrate & silent mode
+- OnePlus devices: Re-enable ringer mode in volume dialog
+- Nameless Launcher: Allow to hide status bar in home screen
+- Lawnchair: Updated to latest Dev build
+- Other cleanup and improvements
+
+Device changelog
+- Updated Display blobs from LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
+- Import missing 8T sensors configs
+- OnePlus Settings: Fully code refractor
+- Kernel: Increase DC-dimming threshold
+- Kernel: Sync latest meteoric changes
+- Cleanup useless sepolicy rules
