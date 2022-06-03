@@ -1,0 +1,24 @@
+Nameless-AOSP: 03/06/2022
+
+Source changelog
+- Improved status bar brightness control
+- Improved QS header height & padding
+- Fixed ambient light color mode
+- Fixed lock screen after timeout
+- Fixed reTicker text invisible
+- OnePlus devices: Avoid changing ringer mode when change ring volume in vibrate & silent mode
+- OnePlus devices: Re-enable ringer mode in volume dialog
+- Nameless Launcher: Allow to hide status bar in home screen
+- Lawnchair: Updated to latest Dev build
+- Other cleanup and improvements
+
+Device changelog
+-Tune Zram for performance
+-Enabled zram writeback
+-Updated zram size
+-Update dimensions again
+-Set zram sized for 50% 
+-Some sepolices stuff
+-Sync props with Gcam
+-Improved boot time
+-Updated Blobs
