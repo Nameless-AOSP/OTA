@@ -1,0 +1,26 @@
+Note
+- This build is based on Oxygen OS 12 firmware, so must flash latest Oxygen OS 12 firmware in both slot before flashing the new nameless build.
+- Clean flash highly recommended.
+- Don't flash any custom kernels.
+- Don't update this build from OTA.
+
+Source changelog
+- Merged June security patch
+- Improved status bar brightness control
+- Improved QS header height & padding
+- Fixed ambient light color mode
+- Fixed lock screen after timeout
+- Fixed reTicker text invisible
+- Fixed styling issues on DocumentsUI
+- Fixed ringtone selection for devices with e-SIM
+- Fixed app font on Pixel Launcher
+- OnePlus devices: Avoid changing ringer mode when change ring volume in vibrate & silent mode
+- OnePlus devices: Re-enable ringer mode in volume dialog
+- Nameless Launcher: Allow to hide status bar in home screen
+- Lawnchair: Updated to latest Dev build
+- Other cleanup and improvements
+
+Device changelog
+- Initial Oxygen OS 12 firmware based build
+- Device, vendor and kernel tree completely rebase to latest los changes.
+- OnePlus Settings: Fully code refractor
