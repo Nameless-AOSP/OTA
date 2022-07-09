@@ -1,0 +1,38 @@
+Nameless-AOSP: 08.07.2022
+
+Source changelog:
+- Merged July security patch (android-12.1.0_r11)
+- Switched to GameSpace, with all goods from old GamingMode kept
+- Refactored in-game lock gesture feature
+- Added Status Bar Ticker
+- Added Music QS tile
+- Added Google Lens into screenshot UI
+- Added proximity check on wake toggle
+- Added support to show battery level for AirPods series
+- Added support to reset auto brightness adjustment
+- Added more haptic feedback scenes for supported devices
+- Relax slider haptic feedback strength
+- Dropped slider haptic feedback for some devices
+- Added OPPO Sans
+- Allow receive / send any type of files from Bluetooth
+- Fixed less boring heads up toggle
+- Fixed 2-button navbar option missing
+- Improved partial screenshot
+- Improved pocket mode layout
+- Moved extra dim feature into display settings
+- Show 12L in settings and updated Easter Egg from PUI
+- Updated default wallpaper
+- Updated various system icons
+- Updated various APNs
+- Updated lawnchair to latest dev & Enabled dexpreopt
+- Other cleanup and improvements
+
+Device Changelog
+- Bumped to Raven July fp
+- Added more presets to Kharame Dirac (Bass booster, Balanced, Live, Bass Reduction, Treble Reduction, Soft Bass, Soft Treble)
+- Replaced aosp dialer with Google dialer
+- Improved overall smoothness
+- Add libbeluga and libdolphin (for performance improvement and game jank reduction)
+- Update brightness configs from aosp
+- Upstreamed Kharame kernel to latest 4.9.322
+- Set GPU idle timeout to 64 ms
