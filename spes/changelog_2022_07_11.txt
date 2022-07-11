@@ -1,0 +1,43 @@
+Note
+- Flash using Nameless Recovery only
+- Clean flash from other ROMs required
+
+Source changelog:
+- Merged July security patch (android-12.1.0_r11)
+- Switched to GameSpace, with all goods from old GamingMode kept
+- Refactored in-game lock gesture feature
+- Added Status Bar Ticker
+- Added Music QS tile
+- Added Google Lens into screenshot UI
+- Added proximity check on wake toggle
+- Added support to show battery level for AirPods series
+- Added support to reset auto brightness adjustment
+- Added more haptic feedback scenes for supported devices
+- Relax slider haptic feedback strength
+- Dropped slider haptic feedback for some devices
+- Added OPPO Sans
+- Allow receive / send any type of files from Bluetooth
+- Fixed less boring heads up toggle
+- Fixed 2-button navbar option missing
+- Improved partial screenshot
+- Improved pocket mode layout
+- Moved extra dim feature into display settings
+- Show 12L in settings and updated Easter Egg from PUI
+- Updated default wallpaper
+- Updated various system icons
+- Updated various APNs
+- Updated lawnchair to latest dev & Enabled dexpreopt
+- Other cleanup and improvements
+
+Device Changelog
+- Initial official user build 
+- update GcamGo to v3.6.455515391
+- Add option to hide display punch hole (to enable this, go To Developeroptions > DisplayCutout > Select 'Hidedisplaycutout' and restart system ui
+- Fix display animation while AOD on/off screen
+- Update audio HAL from LA.UM.9.15.2.r1-03800-KAMORTA.QSSI12.0
+- Update display HAL from LA.UM.9.15.2.r1-03800-KAMORTA.QSS…
+- spes: overlay: Update CarrierConfigOverlay from SPESGlobal V13.0.2.0-A12
+- spes: proprietary: Import qti-telephony-common.jar from SPESGlobal v13.0.2.0-A12
+- spes: proprietary: Import more iwlan blobs
+- spes: Update prebuilt kernel from SPESGlobal V13.0.2.0-A12
+
