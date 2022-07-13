@@ -26,5 +26,4 @@ Updated lawnchair to latest dev & Enabled dexpreopt
 Other cleanup and improvements
 
 Device changelog:
-Initial enchilada build
-Selinux enforcing
+Hotfix to correct rounded corners!
