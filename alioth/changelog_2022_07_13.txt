@@ -1,9 +1,0 @@
-Rebase Trees LOS
-Add support for showing battery level for AirPods series
-Add Gcam
-Add Raise to wake 
-Many more changes added, better optimization and stability in the system.
-Enjoy these new Trees, I hope you like them.
-
-More details in the Changelog in the next updates;
-My PC is still broken, I hope you have a little more patience, I try to do my best to give you the best. ❤️

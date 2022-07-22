@@ -1,3 +1,0 @@
-Device changelog:
--Initial Build
--Added OP Cam
