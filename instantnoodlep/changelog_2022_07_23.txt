@@ -1,0 +1,15 @@
+DO NOT UPDATE VIA SYSTEM UPDATER!!!
+Check link for instruction: https://telegra.ph/Installation-instructions-07-23
+
+Source changelog
+- Added Screen-off-fod
+- Added Nothing font
+- Fixed double status bar clock when ticker in on
+- Fixed weird status bar icon when colored icon is on
+- Fixed QS tint for dotted and full circle battery style
+- Fixed DingTalk login / sign
+
+Device changelog
+- Initial build with OOS 12 firmware based
+- OnePlus Camera & Gallery from OOS 12 have been fully ported :)
+- Optimized charging removed for now. Will add back next build.
