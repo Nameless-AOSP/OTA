@@ -1,0 +1,16 @@
+Note
+- This build is based on OOS 12 firmware, so must flash latest OOS 12 firmware on both slots before updating the new Nameless-AOSP build
+- Global variant users recommend to use EU OOS 12 firmware to avoid touch issues
+
+Source changelog
+- Added Screen-off-fod
+- Added Nothing font
+- Fixed double status bar clock when ticker in on
+- Fixed weird status bar icon when colored icon is on
+- Fixed QS tint for dotted and full circle battery style
+- Fixed DingTalk login / sign
+
+Device changelog
+- Initial build with OOS 12 firmware based
+- OnePlus Camera & Gallery from OOS 12 has been fully ported :)
+- Optimized charging removed for now. Will add back next build.
