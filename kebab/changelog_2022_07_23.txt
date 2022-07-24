@@ -1,3 +1,6 @@
+DO NOT UPDATE VIA SYSTEM UPDATER!!!
+Check link for instruction: https://telegra.ph/Installation-instructions-07-23
+
 Note
 - This build is based on OOS 12 firmware, so must flash latest OOS 12 firmware on both slots before updating the new Nameless-AOSP build
 - Global variant users recommend to use EU OOS 12 firmware to avoid touch issues
