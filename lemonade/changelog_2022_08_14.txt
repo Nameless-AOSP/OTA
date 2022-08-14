@@ -1,0 +1,40 @@
+DO NOT UPDATE VIA SYSTEM UPDATER!!!
+- This build is based on Oxygen OS 12 C.62 firmware, so must flash Oxygen OS 12 C.62 firmware before flashing the new nameless build.
+
+Source changelog:
+- Merged August security patch (android-12.1.0_r22)
+- Added Screen-off-fod
+- Added Wi-Fi standard icon
+- Added bunch of fonts and icons
+- Added China Boradnet (CBN) support
+- GameSpace: Add support to quick launch app in games (Freeform window)
+- Improve volume dialog inactive row tint
+- Updater: Allow maintainer to block update from downloading
+- Drop custom private DNS provider
+- Fixed double status bar clock when ticker in on
+- Fixed weird status bar icon when colored icon is on
+- Fixed QS tint for dotted and full circle battery style
+- Fixed DingTalk login / sign
+- Fully cleanup redundance codes and features
+
+Device changelog:
+- Improved status bar padding
+- Improved scheduled wireless charger quiet mode (only for supported models)
+- Improved face/fingerprint unlock haptic feedback
+- Improved notification vibration feedback
+- Improved gboard vibration strength 
+- Switch to CodeRed Kernel based on CAF and Linux Stable tag
+- Refactor OnePlus Settings
+- Fully refactored vibrator effects. Enjoy OOS 11 type haptic now :)
+- OnePlusSettings: Allow to increase vibrator strength level range to 5 (work only in default kernel)
+- OnePlusSettings: Added TP Edge limit mode
+- OnePlusSettings: Added Hyper Touch mode
+- OnePlusSettings: Added Game Mode for automatically enable Hyper Touch / TP edge limit modes in games
+- Added OnePlus Dolby support also work on third-party Dolby supported apps (eg: apple music)
+- Added OnePlus IFAA support
+- Added Optimized Charging aka Smart Charging
+- Disable Powershare and Quiet mode for OnePlus 9 CN / IN models
+- Increased FOD icon radius 
+- Fixed wired headphones / earphones not working
+- Fixed percentage in battery usage
+- General bug fixes and stability improvement
