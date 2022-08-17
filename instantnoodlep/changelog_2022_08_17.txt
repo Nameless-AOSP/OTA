@@ -1,0 +1,22 @@
+OxygenOS 12 C.33 firmware is required!
+Check link for instruction: https://telegra.ph/Installation-instructions-08-17
+
+Source changelog
+- Merged August security patch (android-12.1.0_r22)
+- Added bunch of fonts and icons
+- Added Wi-Fi standard icon
+- Added China Boradnet (CBN) support
+- Fixed alert slider not working in pocket mode
+- GameSpace: Add support to quick launch app in games (Freeform window)
+- Improve volume dialog inactive row tint
+- Updater: Allow maintainer to block update from downloading
+- Fully cleanup redundance codes and features
+
+Device changelog
+- Added back Optimized Charging
+- Fixed Warp Charging
+- Improved face/fingerprint unlock haptic feedback
+- Improved notification vibration feedback
+- Updated blobs from OxygenOS 12 Gloal C.33
+- Switched OMX & VPP blobs to LA.UM.9.12.r1-14100.01-SMxx50.QSSI13.0
+- Switched to QTI bluetooth stack
