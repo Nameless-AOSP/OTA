@@ -1,0 +1,5 @@
+Source changelog
+- Fixed CTS not passing
+- Avoid handling power button torch action in pocket mode
+- Allow some system apps to be added into game mode quick launch apps
+- Fixed in-game freeform window size when app is protected by App Lock
