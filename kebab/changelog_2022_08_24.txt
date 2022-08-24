@@ -1,0 +1,17 @@
+Source changelog
+- Merged August security patch (android-12.1.0_r22)
+- Added bunch of fonts and icons
+- Added Wi-Fi standard icon
+- Added China Boradnet (CBN) support
+- Avoid handling power button torch action in pocket mode
+- Fixed alert slider not working in pocket mode
+- GameSpace: Add support to quick launch app in games (Freeform window)
+- Improve volume dialog inactive row tint
+- Updater: Allow maintainer to block update from downloading
+- Fully cleanup redundance codes and features
+
+Device changelog
+- Added back Optimized Charging
+- Improved face/fingerprint unlock haptic feedback
+- Improved notification vibration feedback
+- Updated blobs from OxygenOS 12 Gloal C.33
