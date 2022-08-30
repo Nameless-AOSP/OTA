@@ -1,0 +1,7 @@
+- Fixed Slow Charging (if anyone still face slow charging then do re-plug charging cable probably this will be happen when device temperature cross above 40°c)
+- Fixed OPlus Camera crashing in AI ultra clear mode
+- Fixed HDR and LOG submode in movie mode having random Green / Pink screen in recorded videos
+- Fixed Long Exposure mode not working for some users
+- Merged Linux stable 'v5.4.211' tag in kernel
+- Merged CodeLinaro OSS "LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0" tag in kernel
+- Improved idle drain
