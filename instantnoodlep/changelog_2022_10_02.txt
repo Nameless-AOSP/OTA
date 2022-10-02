@@ -1,0 +1,2 @@
+- Initial A13 release.
+- Don't OTA or dirty flash from A12 build!
