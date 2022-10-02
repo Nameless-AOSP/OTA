@@ -1,0 +1,14 @@
+Hello Amigos,
+
+Today, we're super excited to release our Nameless-AOSP based on Android 13, for the OnePlus 9 Pro.
+
+Before flashing the Nameless-AOSP based on Android 13, we're highly recommended to follow below steps
+
+1. Make sure your flashed latest Oxygen OS 12 C.61 - C.64 firmware in both slot A / B (Ignore, if you already using latest firmware).
+2. Do not dirty flash from any Android 12 builds / Do not local update from Android 12.
+3. Read flash instructions from wiki  (https://nameless.wiki/).
+4. All the required images will be found in sourceforge (https://sourceforge.net/projects/nameless-aosp/files/lemonadep/images/02-10-2022/).
+
+known issues:
+• Warp Charging stopped working randomly (solution: replug charging cable also avoid using device while charging).
+• Some Pixel phone ringtones may not work (solution: Use custom phone ringtones for now).
