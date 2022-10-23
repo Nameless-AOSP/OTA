@@ -1,0 +1,23 @@
+Source changelog
+- Merged October security patch (android-13.0.0_r11)
+- Added back touch haptic feedback main toggle
+- Added vibration on call connected/disconnected
+- Added long press power to toggle torch
+- Added adaptive playback
+- Added click to take partial screenshot
+- Added more settings options for screenrecorder
+- Allow to ignore secure window flag
+- Allow to hide back gesture arrow
+- Allow to hide IME buttom space
+- Allow to reset auto brightness preference
+- Allow to reset battery stats
+- Allow to set screen brightness for ambient display
+- Fixed glitch charging info in lockscreen
+- Imported more ring vibration pattern from OOS 11
+- Refactored volume adjustment haptic feedback to Flyme style
+- Make cutout area touchable
+
+Device changelog
+- Fixed slow motion and time-lapse mode on OnePlus Camera
+- Fixed Dolby crashing on some apps
+- Improved FOD
