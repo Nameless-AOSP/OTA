@@ -1,0 +1,29 @@
+Source changelog
+- Merged October security patch (android-13.0.0_r11).
+- Added back touch haptic feedback main toggle.
+- Added vibration on call connected/disconnected.
+- Added long press power to toggle torch.
+- Added adaptive playback.
+- Added click to take partial screenshot.
+- Added more settings options for screenrecorder.
+- Added hotspot toggle in QS internet dialog.
+- Allow to ignore secure window flag.
+- Allow to hide back gesture arrow.
+- Allow to reset auto brightness preference.
+- Allow to reset battery stats.
+- Allow to set screen brightness for ambient display.
+- Imported more ring vibration pattern from OOS 11.
+- Refactored volume adjustment haptic feedback to Flyme style.
+- Make cutout area touchable.
+
+Device changelog
+- Updated blobs from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0.
+- Dropped 90Hz refresh rate support.
+- Added IFAA support (enable alipay fingerprint payment).
+- Added C.63 firmware.
+- Minor tweaks and improved haptic feedback and strength.
+- Fixed wireless quiet mode charging.
+- Fixed warp charging get slow down in some scenarios.
+- Fixed dolby atmos crashing on some media content.
+- Fixed display flickers in some scenarios.
+- Fixed device model show incorrectly for some users.
