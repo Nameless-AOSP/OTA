@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "thirteen",
+    "date": "1668364560000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/lahaina/Nameless-AOSP_lahaina-13.0-20221113-1836-Official.zip/download",
+    "id": "151c12d3fd45f42e7d1814e392449eb7f99def30",
+    "filename": "Nameless-AOSP_lahaina-13.0-20221113-1836-Official.zip",
+    "filesize": "2295327681",
+    "md5": "0ce3a453201c37f2a61ad0ec595c5eb3"
 }

@@ -1,0 +1,26 @@
+Source changelog
+- Merged November security patch (android-13.0.0_r14)
+- Added Nameless Launcher & Launcher Switcher
+- Added HeadsUp notification customizations
+- Added long press volume key track control
+- Added Immersive gesture bar
+- Added long swipe back gesture actions
+- Added media output controller icon in volume dialog when bluetooth device connected
+- Allow to use Face Unlock in third-party apps
+- Switched bluetooth QS tile to dialog type like Internet tile
+- Fixed Monet
+- Fixed hide IME bottom space not working
+- Fixed charging bolt not showing in text style
+- Fixed music indication not showing in ambient display
+- Fixed bootloop with launcher mods
+
+Device changelog
+- Initial unified build for OnePlus 9 and 9 Pro
+- Updated blobs from Oxygen OS C.66
+- Updated Bluetooth, Perf, Perf learning modules, Power-off alarm, QTI service tracker and Time service libraries from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
+- Disable wireless charging features for unsupported models (OnePlus 9 China, India and T-Mobile model) 
+
+Note
+- FW dropped in unified builds.
+- No OTA update for these build.
+- Dirty flash from sideload or local update from ota app is fine.
