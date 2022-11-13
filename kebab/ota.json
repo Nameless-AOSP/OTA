@@ -1,10 +1,10 @@
 {
     "version": "thirteen",
-    "date": "1666511340000",
+    "date": "1668334200000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-13.0-20221023-0749-Official.zip/download",
-    "id": "5dcfc5f2e5eabe6cca53bab081fed975e1aad257",
-    "filename": "Nameless-AOSP_kebab-13.0-20221023-0749-Official.zip",
-    "filesize": "2075254869",
-    "md5": "58a754dc129c9333a3e0e5e19164825e"
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/kebab/Nameless-AOSP_kebab-13.0-20221113-1010-Official.zip/download",
+    "id": "b5ac0d850116bd7bb7b5c9e8b1e362de4ffe984e",
+    "filename": "Nameless-AOSP_kebab-13.0-20221113-1010-Official.zip",
+    "filesize": "2082468102",
+    "md5": "e624e6ef99bc3559704ec1e8bc77bef8"
 }

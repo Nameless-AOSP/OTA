@@ -1,0 +1,20 @@
+Source changelog
+- Merged November security patch (android-13.0.0_r14)
+- Added Nameless Launcher & Launcher Switcher
+- Added HeadsUp notification customizations
+- Added long press volume key track control
+- Added Immersive gesture bar
+- Added long swipe back gesture actions
+- Added media output controller icon in volume dialog when bluetooth device connected
+- Added hotspot toggle in Internet QS tile
+- Allow to use Face Unlock in third-party apps
+- Switched bluetooth QS tile to dialog type like Internet tile
+- Fixed Monet
+- Fixed hide IME bottom space not working
+- Fixed aux camera not working on third-party camera apps
+- Fixed charging bolt not showing in text style
+- Fixed music indication not showing in ambient display
+- Fixed bootloop with launcher mods
+
+Device changelog
+- Fixed FOD not working on some devices
