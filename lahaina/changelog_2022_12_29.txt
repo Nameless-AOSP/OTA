@@ -1,0 +1,27 @@
+Source changelog
+- Merged December security patch (android-13.0.0_r18, QPR1)
+- Added high brightness mode QS tile
+- Added refresh rate QS tile
+- Added Google lens option into Screenshot UI
+- Allow to hide fingerprint icon background
+- Allow to only turn on AOD when device is charging
+- Allow to switch to old bluetooth tile behavior
+- Allow to switch to old style mobile data icon
+- Allow to turn off security protection for QS tiles
+- Allow to turn off torch with long press power when screen is on
+- Improved DataSwitch & Preferred network QS tiles
+- Show current and new version on apk installation
+- Fixed back gesture triggered on long swipe action
+- Fixed random device freeze when swipe gestures in game mode
+- Fixed resolution/dpi related issue for QHD devices
+- Fixed "see all" not working in bluetooth dialog
+- Removed combined signal icon toggle (Google fully removed this feature in QPR1)
+- GameSpace: Allow to block status bar swipe
+- Nameless Launcher: Allow to set per-app icon separately
+- Nameless Launcher: Allow to toggle wallpaper zooming
+
+Device changelog
+- Improve color mode options and behavior to match OOS
+- Improve haptic effects stability (Phone will vibrate on boot which is normal because it's calibrating vibrator. Custom kernel will perform same sexy haptic effects now)
+- Fixed heating and battery drain issues
+- Updated from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0
