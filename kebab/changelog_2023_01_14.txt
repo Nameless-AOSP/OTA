@@ -1,0 +1,15 @@
+Source changelog
+- Merged January security patch (android-13.0.0_r23)
+- Fixed mobile data QS tile behavior
+- Fixed Pixel Launcher high battery drain
+- Nameless Launcher: Allow to hide search bar in app drawer
+- Nameless Launcher: Fixed search app not working
+- Nameless Launcher: Removed "Hide status bar" for now
+- Minor cleanup and improvements
+
+Device changelog
+- Initial OOS 13 firmware build
+- Improve color mode options and behavior to match OOS
+
+Note
+- Due to DDR type differs, firmware is not possible to included for 8T/9R for now. As a result, you can't directly upgrade to this build from OOS 12 based build. Here are two methods for upgrade: (1) Flash OOS 13 firmware manully before sideload this build. (2) Msm back to OOS 11, upgrade to OOS 13, then flash this build.

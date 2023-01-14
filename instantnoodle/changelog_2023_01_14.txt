@@ -1,0 +1,16 @@
+Source changelog
+- Merged January security patch (android-13.0.0_r23)
+- Fixed mobile data QS tile behavior
+- Fixed Pixel Launcher high battery drain
+- Nameless Launcher: Allow to hide search bar in app drawer
+- Nameless Launcher: Fixed search app not working
+- Nameless Launcher: Removed "Hide status bar" for now
+- Minor cleanup and improvements
+
+Device changelog
+- Initial OOS 13 firmware build
+- Improve color mode options and behavior to match OOS
+- Fixed blank screen in AOD
+
+Note
+- OOS 13 firmware is included for OnePlus 8/8 Pro. You can directly upgrade from OOS 12 based build.
