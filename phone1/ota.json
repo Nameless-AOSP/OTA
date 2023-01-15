@@ -1,10 +1,10 @@
 {
     "version": "thirteen",
-    "date": "1672085160000",
+    "date": "1673780700000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/phone1/Nameless-AOSP_phone1-13.0-20221226-2006-Official.zip/download",
-    "id": "6a6095f5cb8dc228e5d79345cb9450d5ec3fb355",
-    "filename": "Nameless-AOSP_phone1-13.0-20221226-2006-Official.zip",
-    "filesize": "2038484210",
-    "md5": "20dcfd1aa907814e14d2ff40a36e2de2"
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/phone1/Nameless-AOSP_phone1-13.0-20230115-1105-Official.zip/download",
+    "id": "850930832e5a9c6a4547b8e05f5b229464106cfa",
+    "filename": "Nameless-AOSP_phone1-13.0-20230115-1105-Official.zip",
+    "filesize": "1974030958",
+    "md5": "fbae91cd15008a0ca60a50ccb51c7336"
 }
