@@ -1,10 +1,10 @@
 {
     "version": "thirteen",
-    "date": "1673679300000",
-    "requiredDate": "1673679300000",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/lemonadep/Nameless-AOSP_lemonadep-13.0-20230114-0655-Official.zip/download",
-    "id": "9f358eb9450baebbb7e8c06d9a415a67581559ab",
-    "filename": "Nameless-AOSP_lemonadep-13.0-20230114-0655-Official.zip",
-    "filesize": "2371611699",
-    "md5": "3b5d13a0f29c151e249aaea0e26c7597"
+    "date": "1674372540000",
+    "requiredDate": "0",
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/lemonadep/Nameless-AOSP_lemonadep-13.0-20230122-0729-Official.zip/download",
+    "id": "7a20d1c801e136cd0cfd5c50aa15df30890f9087",
+    "filename": "Nameless-AOSP_lemonadep-13.0-20230122-0729-Official.zip",
+    "filesize": "2412360322",
+    "md5": "66f3cf7b89b851e4c488ecd2d8ec3268"
 }

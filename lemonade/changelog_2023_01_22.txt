@@ -1,0 +1,13 @@
+Source changelog
+- Allow to set preferred screenshot feedback
+- Allow to suppress notifications sound/vibration if screen is ON
+
+Device changelog
+- Added IFAA (alipay payment) support
+- Improved oneplus camera stability (ui will be more smoother)
+- Improved FOD unlock speed
+- Enable freeform windows
+- Switched to oneplus dolby atmos
+- Switched to oos 12 gallery
+- Fixed slow motion mode in oneplus camera
+- Fixed dialer pad tones
