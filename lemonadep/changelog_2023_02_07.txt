@@ -1,0 +1,13 @@
+Source changelog
+- Merged February security patch (android-13.0.0_r30)
+- Allow to hide the battery icon 
+- Fixed volume dialog bg tint for inactive rows
+- Minor cleanup and improvements
+
+Device changelog
+- Update proprietary blobs and Carrierconfig from OOS 11.F.20
+- Report "Discharging" status instead of "Connected, not charging" in battery setting, when there is no charger connected
+- Fixed offline charging (power off charging)
+- Fixed pixel ringtones playback issues
+- Fixed dolby atmos crash
+- Minor audio and performance improvements
