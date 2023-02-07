@@ -1,0 +1,8 @@
+- Initial release
+
+Note:
+- This build is based on OOS 12, Recommended to flash latest OOS 12 firmware before proceeding to nameless build
+
+Known bugs:
+- Slow motion in OnePlus camera doesn't work.
+- OnePlus camera fc while switching between video 4K 30 - 60fps modes but after fc it's starts works fine.
