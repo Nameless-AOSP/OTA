@@ -1,0 +1,15 @@
+Source changelog
+- Merged February security patch (android-13.0.0_r30)
+- Allow to hide status bar battery icon
+- Allow to silent notification when screen is on
+- Allow to turn off screenshot feedback
+- Fixed wearable bluetooth devices pairing
+- Removed charging feedback on device unplugged
+- Nameless Launcher: Added toggle to automatically show keyboard when entering app drawer
+
+Device changelog
+- Switched back to old color mode configs
+- Turned on OTG by default to support Type-C headphone
+
+Note
+- If you get "device is not supported" in Google Dialer after updated, uninstall its update in Settings then re-update from Play Store
