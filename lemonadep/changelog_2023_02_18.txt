@@ -1,0 +1,14 @@
+Source changelog:
+- Added support for adjusting the display's RGB color balance
+- Added missing haptic feedback on settings main switch bar
+- Allow choosing volume panel landscape position
+
+Device changelog:
+- Updated Firmware to OOS 11.F.20
+- Switch to CodeRed kernel based on CLO/ASB
+- Follow AOD brightness with display brightness (Note: AoD brightness is little bit dim comparing to display brightness)
+- Follow OOS volume tables
+- Turned on OTG by default to support Type-C headphone
+- Fixed OK Google detection
+- Fixed random crashdump issues
+- Fixed random screen flicker in AOD/Ambient display
