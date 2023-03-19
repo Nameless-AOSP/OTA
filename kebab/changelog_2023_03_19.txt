@@ -1,0 +1,17 @@
+Source changelog
+- Added lockscreen shortcuts customization
+- Added vertical QS layout
+- Added support for showing battery level for AirPods series
+- Added more fonts, signal and Wi-Fi icons
+- Allow to set lockscreen clock font
+- Allow to adjust display's RGB color balance
+- Allow to change volume dialog position in landscape mode
+- Allow to mute media volumes via alert slider for bluetooth devices
+- Allow to disable heads up notification in landscape mode
+
+Device changelog
+- Fixed lockscreen display color tint
+- Updated blobs from 9R F.21
+
+Note
+- Security patch merge is skipped this month due to huge changes in QPR2. It will come in next month release with April security patch
