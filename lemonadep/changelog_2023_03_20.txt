@@ -1,0 +1,24 @@
+Source changelog
+- Added lockscreen shortcuts customization
+- Added vertical QS layout
+- Added support for showing battery level for AirPods series
+- Added more fonts, signal and Wi-Fi icons
+- Allow to set lockscreen clock font
+- Allow to adjust display's RGB color balance
+- Allow to change volume dialog position in landscape mode
+- Allow to mute media volumes via alert slider for bluetooth devices
+- Allow to disable heads up notification in landscape mode
+
+Device changelog
+- Merged LA.UM.9.14.r1-21200-LAHAINA.QSSI13.0 CLO / android11-5.4 lts / ASB-2023-03-05_11-5.4 tags in the kernel
+- Updated blobs and firmware from OOS 11.F.21
+- Fixed DT2W not working for OnePlus 9
+- Fixed NFC not working properly for some users
+- Fixed overheating issue
+- Fixed heavy active/inactive drains
+- Fixed wired charging randomly gets disconnected
+- Fixed wired/wireless warp charging randomly gets slow down
+- Fixed random media playback issue in social media apps
+
+Note
+- Security patch merge is skipped this month due to huge changes in QPR2. It will come in next month release with April security patch
