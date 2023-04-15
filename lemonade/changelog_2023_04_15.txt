@@ -1,0 +1,8 @@
+Source changelog:
+- Merged April security patch with QPR2 rebase (All features are there compared to last build)
+- Added System Vibration QS tile to quickly disable all vibrations
+- Many underhood code improvement
+
+Device changelog:
+- Fixed haptic feedback not working on Eva Kernel
+- Kernel upstream to 240
