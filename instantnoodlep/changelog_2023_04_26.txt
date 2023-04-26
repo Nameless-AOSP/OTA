@@ -1,0 +1,23 @@
+Source Changelog
+- Allow to restrict per-app network access
+- Added auto high brightness mode on strong light environment
+- Added more options to long swipe back gesture (Turn on notification panel/qs panel/volume panel; Turn off screen)
+- Adjust lockscreen clock spacing for some fonts
+- Fixed Gboard translation
+- Fixed crash on some games
+- Fixed messy settings on multi user
+- Fixed power button cannot wake screen when power button torch is enabled
+- Fixed showing double statusbar clock randomly
+- Fixed high battery drain on pixel launcher
+- Fixed disable hesds up in landscape mode not working
+- Fixed GameSpace crashing in landscape mode for some user
+- Fixed Russian translation
+- Fixed NTFS OTG
+- Nameless Launcher: Fixed narrow spacing between docker icons when taskbar is on
+- Re-link notification and ringer volume (Follow Google stock now. Would add a toggle in feature)
+- Removed scheduled mode for dc dimming
+- Switched to StagBin for app crash log upload
+- Other fixes that I may forgot
+
+Device Changelog
+- No device side change
