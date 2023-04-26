@@ -1,10 +1,10 @@
 {
     "version": "thirteen",
-    "date": "1679492160000",
+    "date": "1682488440000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/hotdog/Nameless-AOSP_hotdog-13.0-20230322-1336-Official.zip/download",
-    "id": "cfc425cbbd82658d6d109aaddfb6b0b9a3e61749",
-    "filename": "Nameless-AOSP_hotdog-13.0-20230322-1336-Official.zip",
-    "filesize": "1687572075",
-    "md5": "4fce1c62910acd157bf126c7d8cb3d5d"
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/hotdog/Nameless-AOSP_hotdog-13.0-20230426-0554-Official.zip/download",
+    "id": "7723516704f60d93b6d81428998ea6f9748c0b05",
+    "filename": "Nameless-AOSP_hotdog-13.0-20230426-0554-Official.zip",
+    "filesize": "1663596436",
+    "md5": "86487ef09ac61122143d3171ddeaea80"
 }

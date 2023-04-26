@@ -1,0 +1,30 @@
+Source Changelog
+• Merged April security patch with QPR2 rebase (All features are there compared to last build)
+ • Added System Vibration QS tile to quickly disable all vibrations
+• Allow to restrict per-app network access
+• Added auto high brightness mode on strong light environment
+• Added more options to long swipe back gesture (Turn on notification panel/qs panel/volume panel; Turn off screen)
+• Adjust lockscreen clock spacing for some fonts
+• Fixed Gboard translation
+• Fixed crash on some games
+• Fixed messy settings on multi users
+• Fixed showing double statusbar clock randomly
+• Fixed high battery drain on pixel launcher
+• Fixed disable heads up in landscape mode not working
+• Fixed GameSpace crashing in landscape mode for some users
+• Fixed NTFS OTG
+• Nameless Launcher: Fixed narrow spacing between docker icons when taskbar is on
+• Re-link notification and ringer volume (Follow Google stock now. Would add a toggle in feature)
+• Removed scheduled mode for dc dimming
+• Switched to StagBin for app crash log upload
+• Many underhood code improvement
+• Other fixes that I may forgot
+
+Device changelog:
+• Initial build based on Oxygen OS 11 firmware, so please flash Oxygen OS 11 firmware on both slots before flashing the new build.
+• Added FHD+ screen resolution support
+
+Known bugs:
+• Randomly OnePlus Camera get stuck, clear camera data will be fix.
+
+Note: This build is blocked for OTA update, please follow flash instructions from here: https://stagbin.tk/fluuomv.
