@@ -1,0 +1,13 @@
+Source Changelog
+- Merged May security patch (android-13.0.0_r43)
+- Allow to block accelerometer and gyroscope sensors for apps (Settings - Privacy)
+- Allow to disable QS pull down on lockscreen
+- Allow to use inputmethod haptic feedback with touch feedback disabled
+- Fixed app network access on secondary user
+- Switched to long press for lockscreen shortcuts
+- Removed broken "swipe to wake" option
+- Minor fixes and improvements
+
+Device Changelog
+- Added four ringtone vibration effects from OOS
+- Updated to F.64 firmware
