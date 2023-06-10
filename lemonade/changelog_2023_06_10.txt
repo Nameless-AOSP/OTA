@@ -1,0 +1,29 @@
+Source changelog
+- Allow to unlink ringtone and notification volume
+- Allow to disable 5g in battery saver mode
+- Allow to use vibration in battery saver mode
+- Match volume dialog ringer mode haptic feedback with alert slider
+- Make volume panel expandable
+- Move per-app volume into expandable dialog
+- Make per-app volume persistent on reboot
+- Fixed per-app volume on work profiles apps
+- Fixed voume dialog settings on multi-user
+- Fixed edge light showing in lockscreen
+- Fixed high battery drain on Android System
+- Fixed pin codes with more than four digits not working
+- Fixed duplicated haptic feedback on face unlock
+- Fixed ringer mode reset on boot if switched from QS tile or volume dialog
+- Fixed media volume not muted on switched to silent mode from QS tile or volume dialog
+- Fixed media volume muted on receiving call
+- Improved freeform window animation
+- Other minor fixes
+
+Device changelog
+- Updated blobs from OOS 13.1 (EX01)
+- Added Video colour enhance & Video motion enhancement (MEMC) for 9 Pro
+- Added libperfmgr for better performance and battery backup
+- Allow to switch preferred 5g mode (Settings - Network & Internet - Preferred 5g mode)
+- Allow to toggle high touch sample mode
+- Improve edge touch area handling logic as OOS
+- Increased touch sampling rate to 600Hz
+- Disabled prevent ringing feature (We have Alert Slider)
