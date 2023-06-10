@@ -20,7 +20,7 @@ Source changelog
 
 Device changelog
 - Updated blobs from OOS 13.1 (EX01)
-- Added Video colour enhance & Video motion enhancement (MEMC) for 9 Pro (MEME feature not support on QHD mode)
+- Added Video colour enhance & Video motion enhancement (MEMC) for 9 Pro (MEMC feature not support on QHD mode)
 - Added libperfmgr for better performance and battery backup
 - Allow to switch preferred 5g mode (Settings - Network & Internet - Preferred 5g mode)
 - Allow to toggle high touch sample mode
