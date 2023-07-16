@@ -1,0 +1,24 @@
+Source Changelog
+- Merged July security patch (QPR3)
+- Allow to set per-app auto-rotate config
+- Allow to set per-app refresh rate config
+- Allow to set scheduled time for optimized charging
+- Added CPU Info QS tile
+- Fixed Google Restore
+- Fixed invisible battery level in power saver mode and low power mode
+- Fixed Pixel Launcher search result background in light mode
+- Fixed system app's network access got revoked after uninstalling update
+- Match lockscreen shortcut behavior with iOS
+- Removed ambient display brightness settings
+- Updated NFC icon from Motorola
+- Overall rewrite and improve codes
+
+Device Changelog
+- Switch to libperfmgr for better performance
+- Fixed optimized charging and incorrect charging status
+- Match Alert Slider vibration feedback with OOS
+- Match vibration strength level range with OOS
+- Added screen off gesture patch for custom kernels
+- 8P: Fixed possible refresh rate stuck with memc enabled
+- 8/8P: Updated blobs from OOS 13.1.0.580 (EX01)
+- 8T/9R: Updated blobs from OOS 13.1.0.581 (EX01)
