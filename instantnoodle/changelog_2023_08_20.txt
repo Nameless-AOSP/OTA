@@ -1,0 +1,18 @@
+Source Changelog
+- Merged August security patch (android-13.0.0_r74)
+- Allow to force highest refresh rate for all apps
+- Allow to disable clipboard overlay
+- Allow to toggle floating rotation button
+- Added haptic feedback for dt2w
+- Rework and introduce some new vibration patterns
+- Enabled new back gesture affordance
+- Enabled statusbar charger plug-in chip
+- Minor fixes and improvements
+
+Device Changelog
+- Improved Automatic HBM
+- Improved Automatic Brightness
+- Improved vibrator calibration method (No more vibration on boot)
+- Fixed random device freeze after locked screen
+- 8T: Fixed Ok Google detection
+- Kernel: Cleanup useless oplus drivers
