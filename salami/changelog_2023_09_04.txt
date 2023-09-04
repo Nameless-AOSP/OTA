@@ -1,0 +1,25 @@
+Source Changelog
+- Merged August security patch (android-13.0.0_r74)
+- Allow to force highest refresh rate for all apps
+- Allow to disable clipboard overlay
+- Allow to toggle floating rotation button
+- Added haptic feedback for dt2w
+- Rework and introduce some new vibration patterns
+- Enabled new back gesture affordance
+- Enabled statusbar charger plug-in chin
+- Minor fixes and improvements
+
+Device Changelog
+- Updated blobs from OOS 13.1 (590)
+- Kernel rebased to OOS 13.1 (590) with minimal OPLUS changes
+- Force Widevine CDM security level to L3
+- Improved Automatic HBM
+- Boost brightness in HDR videos
+- Improved system haptic effects
+- Improved system performance
+- Fixed colors modes not working for some users
+- Fixed system random frame drops
+
+Note: OTA update disabled for this build. Kindly please update firmware before updating this build.
+
+Instructions for firmware updation: https://gist.github.com/chandu078/8af79b4612f9a666bc33f7add069f89f
