@@ -1,0 +1,8 @@
+- Updated blobs from OOS 11.A.25
+- Upstreamed kernel version to 5.15.131
+- Kernel compiled with full LTO
+- Enable zram and zsmalloc support
+- Dropped 90 Hz screen refresh rate support
+- Fixed choppy ringtone sounds when there's an incoming call/notification 
+- Fixed random camera freezes issue
+- Fixed Double tap to wakeup gesture
