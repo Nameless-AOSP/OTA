@@ -1,0 +1,13 @@
+Source Changelog
+- Merged September security patch (android-13.0.0_r82)
+- Ported Pop-Up View from Nothing OS (Settings - System - Pop-Up View)
+- Added option to enter Pinned-Window mode on long swipe back
+- GameSpace: Quick launch apps now use Pop-Up View
+- Allow to switch to vibrate mode automatically on bluetooth device connected
+- Fixed recent tasks switch after disabled gesture pill
+- Fixed screen off glitch after enabled "doze on charge only"
+- Minor other improvements
+
+Device Changelog
+- Updated blobs from OOS 13.1.0.582 (EX01)
+- 8T/9R: Fixed lockscreen tint
