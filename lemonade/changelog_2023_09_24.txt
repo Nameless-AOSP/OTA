@@ -1,0 +1,23 @@
+Source Changelog
+- Merged September security patch (android-13.0.0_r82)
+- Ported Pop-Up View from Nothing OS (Settings - System - Pop-Up View)
+- Added option to enter Pinned-Window mode on long swipe back
+- GameSpace: Quick launch apps now use Pop-Up View
+- Allow to switch to vibrate mode automatically on bluetooth device connected
+- Fixed recent tasks switch after disabled gesture pill
+- Fixed screen off glitch after enabled "doze on charge only"
+- Allow to force highest refresh rate for all apps
+- Allow to disable clipboard overlay
+- Allow to toggle floating rotation button
+- Added haptic feedback for dt2w
+- Rework and introduce some new vibration patterns
+- Enabled new back gesture affordance
+- Enabled statusbar charger plug-in chip
+- Minor fixes and improvements
+
+Device Changelog
+- Updated blobs from OOS 13.1.0.591(EX01)
+- Updated dolby configs from OOS 13.1
+- Improved system haptic effects
+- Improved system performance
+- Removed automatic HBM mode
