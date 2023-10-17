@@ -1,0 +1,10 @@
+Source Changelog
+- Merged October security patch
+- Implemented Flyme style gesture for opening any apps in Pop-Up View (Check video in Settings - System - Pop-Up View)
+- Refactored Pop-Up View for bugfix and more functionality (Inspired from Flyme)
+  * Support window stack like fullscreen mode (TODO: Improve animation between windows switch)
+  * Support showing one mini-window and one pinned-window at same time
+ - Minor fixes and improvements
+
+ Device Changelog
+ - Fixed USB DAC not working properly
