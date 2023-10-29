@@ -1,0 +1,16 @@
+Source Changelog:
+- Merged October security patch
+- Implemented Flyme style gesture for opening any apps in Pop-Up View (Check video in Settings - System - Pop-Up View)
+- Refactored Pop-Up View for bugfix and more functionality (Inspired from Flyme)
+  * Support window stack like fullscreen mode
+  * Support showing one mini-window and one pinned-window at same time
+ - Minor fixes and improvements
+
+Device Changelog:
+- Updated blobs from OOS 13.1.0.595
+- Merged KERNEL.PLATFORM.2.0.r1-14100-kernel.0 & ASB-2023-10-06_13-5.15 tags
+- Improved WiFi connectivity stability
+- Fixed failed to connect WiFi WPA3 security networks
+- Fixed hardware backed attestation for safetynet
+- Fixed random playback freezes issue in some apps
+- Fixed touch panel direction not working in some scenarios
