@@ -1,0 +1,16 @@
+Source Changelog
+- Merged November security patch
+- Improved Pop-Up View Global Gesture
+- Fixed bunch of Pop-Up View issues
+- Fixed GameSpace overlay persistent issue
+- Fixed Google battery widget
+- Fixed Safetynet
+- Minor fixes and cleanup
+
+Device Changelog
+ - Fixed FOD blasting the entire screen
+ - Updated blobs from OOS 13.1.0.596(EX01)
+ - Merged November ABS and latest CLO tag in kernel and drivers
+
+Note
+ - This is the final Android 13 release. We will start work on Android 14 from 2024 January.
