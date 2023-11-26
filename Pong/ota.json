@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "thirteen",
+    "date": "1701002460000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/Pong/Nameless-AOSP_Pong-13.0-20231126-1241-Official.zip/download",
+    "id": "52e52c2ffcf979ceb739761a568d29c8bf417fcd",
+    "filename": "Nameless-AOSP_Pong-13.0-20231126-1241-Official.zip",
+    "filesize": "2379698968",
+    "md5": "3499c4fcac2c84d049c5a3a383ad958c"
 }

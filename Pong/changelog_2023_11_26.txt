@@ -1,0 +1,19 @@
+Source Changelog
+- Merged November security patch
+- Improved Pop-Up View Global Gesture
+- Fixed bunch of Pop-Up View issues
+- Fixed GameSpace overlay persistent issue
+- Fixed Google battery widget
+- Fixed Safetynet
+- Minor fixes and cleanup
+
+ Device Changelog
+- Merged Google November ABS and latest CLO tag in kernel
+- Fixed device goes to crashdump mode while using "Hey Google" and maps.
+- Fixed pixel ringtone playblack issue
+- Improve network stability
+- Improved system haptic feedback and effects (better than stock :) )
+- Improved brightness range
+- Added wireless charging support
+- Added Nothing Alive color mode
+- Dropped NFC support (Sadly PN560 NFC is not supported in Android 13. Revisit once we moved to Android 14)
