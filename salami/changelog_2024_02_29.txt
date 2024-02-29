@@ -1,0 +1,7 @@
+- Initial Android 14 release and based on OOS 14.0.0.501(EX01)
+- OOS 14.0.0.501(EX01) firmware included so no need to flash firmware manually.
+- Clean flash required. Don't OTA or dirty flash from A13 build!
+
+Below features were supposed to be added in initial release, but missed due to lack time development recently, will be gradually added in future:
+- Pop Up View (Half ported)
+- Game mode (A simple implementation without UI has been added)
