@@ -1,0 +1,9 @@
+- Initial Android 14 release (OOS 13.1 firmware based)
+- For 8/8Pro, firmware is included. For 8T/9R, make sure you have latest OOS 13.1 firmware installed.
+- Clean flash required. Don't OTA or dirty flash from A13 build!
+- OnePlus Camera included
+- Dolby hasn't been included yet
+
+Below features were supposed to be added in initial release, but missed due to lack time of development recently, will be gradually added in future:
+- Pop-Up View (Half ported)
+- Game mode (A simple implementation without UI has been added)
