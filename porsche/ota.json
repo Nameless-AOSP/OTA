@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "fourteen",
+    "date": "1709875920000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/porsche/Nameless-AOSP_porsche-14.0-20240308-0532-Official.zip/download",
+    "id": "be53da9ea5506dc632ad3ff8f161007081f89b94",
+    "filename": "Nameless-AOSP_porsche-14.0-20240308-0532-Official.zip",
+    "filesize": "2554333089",
+    "md5": "11796a3eb9c03528667e738a0d94eaf3"
 }

@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "fourteen",
+    "date": "1709886360000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/lunaa/Nameless-AOSP_lunaa-14.0-20240308-0826-Official.zip/download",
+    "id": "07f0dc684c54daa4de2b9713494d5b505ab1c8ee",
+    "filename": "Nameless-AOSP_lunaa-14.0-20240308-0826-Official.zip",
+    "filesize": "2534134966",
+    "md5": "773e37ef6a720a44653198dabc893b82"
 }

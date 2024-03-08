@@ -1,0 +1,4 @@
+Device changelog
+- Fixed brightness issues
+- Fixed OTG issues
+- Add additional asserts

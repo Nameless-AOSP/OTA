@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "fourteen",
+    "date": "1709868600000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/martini/Nameless-AOSP_martini-14.0-20240308-0330-Official.zip/download",
+    "id": "4bac7466b8016bbc2b19b2db368272f91160bc2a",
+    "filename": "Nameless-AOSP_martini-14.0-20240308-0330-Official.zip",
+    "filesize": "2355817038",
+    "md5": "182c2ca9c18dde729aae921cee79fa88"
 }
