@@ -1,0 +1,23 @@
+Source Changelog
+- Merged April security patch (QPR2)
+- Bring back & Improved Pop-Up View
+- Added battery information page in Settings
+- Fixed lots of known issues
+
+Device Changelog
+- Update oplus camera from OnePlus 12
+- Drop video 4k 60 fps support in oplus camera (it's causing crashdump)
+- Fixed oplus camera video night mode
+- Fixed oplus camera portrait starburst
+- Show device name instead of device model in oplus camera watermark mode
+- Merged latest Qualcomm, Google ABS and Linux stable release in kernel
+- Replaced OnePlus Gallery with Google Photo
+- Updated haptic effects from OnePlus 12
+  1. Volume/brightness slider now haptics strength is progressive 
+  2. Updated alert slider effect for vibrator mode.
+  3. Updated clear all notifications and clear all recent.
+  4. Updated keyboard haptic effects.
+  5. Updated screen on/off haptic effect.
+  6. Updated screenshot haptic effect.
+  7. Updated fingerprint success/error haptic effect.
+  8. Updated Charging effect.

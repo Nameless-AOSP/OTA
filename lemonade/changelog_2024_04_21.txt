@@ -1,0 +1,3 @@
+- Initial Android 14 release and based on OOS 13.1.0.593(EX01)
+- OOS 13.1.0.593(EX01) firmware included so no need to flash firmware manually.
+- Clean flash required. Don't OTA or dirty flash from A13 build!
