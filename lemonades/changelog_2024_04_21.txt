@@ -1,0 +1,10 @@
+Source Changelog
+- Merged April security patch (QPR2)
+- Bring back & Improved Pop-Up View
+- Added battery information page in Settings
+- Fixed lots of known issues
+
+ Device Changelog
+ - Added few vibration effects inspired from OnePlus 12
+ - Bring back Dolby
+ - Improved automatic brightness (Thanks to schqiushui)
