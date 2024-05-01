@@ -1,9 +1,10 @@
 {
-    "version": "",
-    "date": "0",
+    "version": "fourteen",
+    "date": "1714184280000",
     "requiredDate": "0",
-    "url": "",
-    "filename": "",
-    "filesize": "0",
-    "md5": ""
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/ferrarri/Nameless-AOSP_ferrarri-14.0-20240427-0218-Official.zip/download",
+    "id": "5050c4d1524a0ac74fd12a094a9856683d7e5e79",
+    "filename": "Nameless-AOSP_ferrarri-14.0-20240427-0218-Official.zip",
+    "filesize": "3191582256",
+    "md5": "012aa7e8206b5bb3bc084b0fce3db38d"
 }
