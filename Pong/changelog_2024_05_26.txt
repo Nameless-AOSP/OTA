@@ -1,0 +1,3 @@
+- Initial Android 14 release and based on NOS 2.5.5
+- NOS firmware included so no need to flash firmware manually.
+- Clean flash required. Don't OTA or dirty flash from A13 build!
