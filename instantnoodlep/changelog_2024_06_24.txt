@@ -1,0 +1,12 @@
+Source Changelog
+- Merged June security patch (QPR3)
+- Initial Game Mode UI implementation
+- Allow to show 4g instead of LTE for signal icon
+- Allow to hide data disabled icon for signal icon
+- Fixed occasional touch freeze issue
+- Fixed notification panel collapse delay when opening notification with Pop-Up View
+- Fixed Pixel Launcher crash on sharing images/links
+- Misc fixes and improvement
+
+ Device Changelog
+- Switch to signed build to pass Play Integrity (Dirty flash is fine)
