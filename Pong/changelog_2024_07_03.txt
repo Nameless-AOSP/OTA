@@ -1,0 +1,17 @@
+Source Changelog
+- Merged July security patch (QPR3)
+- Initial Game Mode UI implementation
+- Allow to show 4g instead of LTE for signal icon
+- Allow to hide data disabled icon for signal icon
+- Fixed occasional touch freeze issue
+- Fixed notification panel collapse delay when opening notification with Pop-Up View
+- Fixed Pixel Launcher crash on sharing images/links
+- Fixed sometimes opening apps gets stuck in a Nameless launcher
+- Misc fixes and improvement
+
+ Device Changelog
+- Switch to signed build to pass Play Integrity (Dirty flash is fine)
+- Updated blobs, firmware and carrier configs from NOS 2.5.6
+- Improved punch hole and status bar padding
+- Improved rounded corners radius
+- Merged the latest CLO, Google ABS, and Linux stable release tags in the kernel
