@@ -1,0 +1,26 @@
+Source Changelog
+- Merged July security patch (QPR3)
+- Initial Game Mode UI implementation
+- Allow to show 4g instead of LTE for signal icon
+- Allow to hide data disabled icon for signal icon
+- Fixed occasional touch freeze issue
+- Fixed notification panel collapse delay when opening notification with Pop-Up View
+- Fixed Pixel Launcher crash on sharing images/links
+- Misc fixes and improvement
+
+Device Changelog
+- Switch to signed build to pass Play Integrity (Dirty flash is fine)
+- Updated blobs and firmware from OPLUS 14.0.0.810(EX01))
+- Updated kernel and driver changes from OPLUS 14.0.0.700(EX01))
+- Bring back & Improved Pop-Up View
+- Added battery information page in Settings
+- Added OnePlus Dolby Atmos
+- Updated haptic effects from OnePlus 12
+  1. Volume/brightness slider now haptics strength is progressive 
+  2. Updated alert slider effect for vibrator mode.
+  3. Updated clear all notifications and clear all recent.
+  4. Updated keyboard haptic effects.
+  5. Updated screen on/off haptic effect.
+  6. Updated screenshot haptic effect.
+  7. Updated fingerprint success/error haptic effect.
+  8. Updated Charging effect.

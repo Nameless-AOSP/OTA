@@ -1,10 +1,10 @@
 {
     "version": "fourteen",
-    "date": "1709212620000",
-    "requiredDate": "1709212620000",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240229-1317-Official.zip/download",
-    "id": "4704dc4999b9ad712b18cb833b6969b81436a1c3",
-    "filename": "Nameless-AOSP_salami-14.0-20240229-1317-Official.zip",
-    "filesize": "2739115297",
-    "md5": "6ab0155e4a0428c67f9bc70d371d4541"
+    "date": "1720541700000",
+    "requiredDate": "0",
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/salami/Nameless-AOSP_salami-14.0-20240709-1615-Official.zip/download",
+    "id": "286bc5742b34f4eab4d80cf3afb232b196adc446",
+    "filename": "Nameless-AOSP_salami-14.0-20240709-1615-Official.zip",
+    "filesize": "2939181455",
+    "md5": "a3e969b2ac4ded5d9d77977d9251a065"
 }
