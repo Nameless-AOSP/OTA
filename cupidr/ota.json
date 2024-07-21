@@ -1,10 +1,10 @@
 {
     "version": "fourteen",
-    "date": "1714271220000",
+    "date": "1721460840000",
     "requiredDate": "0",
-    "url": "https://sourceforge.net/projects/nameless-aosp/files/cupidr/Nameless-AOSP_cupidr-14.0-20240428-0227-Official.zip/download",
-    "id": "a03df68198e9f5d08cea7f792dddf66700b27ec3",
-    "filename": "Nameless-AOSP_cupidr-14.0-20240428-0227-Official.zip",
-    "filesize": "2810625135",
-    "md5": "a4995164386762e8515f9befe89dda56"
+    "url": "https://sourceforge.net/projects/nameless-aosp/files/cupidr/Nameless-AOSP_cupidr-14.0-20240720-0734-Official.zip/download",
+    "id": "5ad9f75d1af88f89730d4e6d288568ae1dbcf2eb",
+    "filename": "Nameless-AOSP_cupidr-14.0-20240720-0734-Official.zip",
+    "filesize": "3047935378",
+    "md5": "09659ec2ab65bba5b2d56bc0adbb31d2"
 }
