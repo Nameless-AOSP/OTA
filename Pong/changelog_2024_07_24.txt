@@ -1,0 +1,13 @@
+Source Changelog:
+- Fixed Google search not working on Pixel Launcher
+- Fixed an issue where video gets stuck when played in chrome like browsers/YouTube and a connected BT audio device.
+- Fixed Google Wear OS app failed to open
+- Misc fixes and improvement
+
+Device Changelog:
+ - Updated blobs and firmware from NOS 2.6.0
+ - Upstream kernel version to Linux 5.10.222
+ - Increased haptic interval for slider haptic feedback
+ - Fixed battery detection not working in recovery
+ - Cleaned up useless/debug changes from NOS and Qcom
+ - Fixed SIM 1/2 detection failure for a few users
