@@ -1,0 +1,10 @@
+Source Changelog:
+- Fixed Google search not working on Pixel Launcher
+- Fixed an issue where video gets stuck when played in chrome like browsers/YouTube and a connected BT audio device
+- Fixed Google Wear OS app failed to open
+- Misc fixes and improvement
+
+Device Changelog:
+- Upstream kernel version to Linux 5.4.280
+- Increased haptic interval for slider haptic feedback
+- Fixed Alert slider UI crash in landscape
