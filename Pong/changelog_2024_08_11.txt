@@ -1,0 +1,10 @@
+Source Changelog:
+- Merged August security patch.
+
+Device Changelog:
+- Updated drivers from the latest CLO tag into kernel.
+- Merged Google ASB-2024-08-05_12-5.10 into kernel.
+- Enabled auxiliary camera support for Aperture camera.
+- Unlocked additional camera framerates.
+- Fixed OTA failure during updates.
+- Miscellaneous fixes and improvements.
