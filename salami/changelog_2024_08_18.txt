@@ -1,0 +1,14 @@
+Source Changelog:
+- Merged August security patch
+- Fixed Google search not working on Pixel Launcher
+- Fixed an issue where video gets stuck when played in chrome like browsers/YouTube and a connected BT audio device.
+- Fixed Google Wear OS app failed to open
+- Misc fixes and improvement
+
+Device Changelog:
+- Update blobs and firmware from OOS 14 830 (EX01)
+- Upstream kernel version to 5.15.152
+- Merged Google ABS and CLO tag in kernel
+- Updated OOS 14 810 (EX01) kernel changes
+- Fixed and improved system haptics feedback 
+- Fixed bluetooth audio is not working for a few users
