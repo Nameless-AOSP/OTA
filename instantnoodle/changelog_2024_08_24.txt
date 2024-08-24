@@ -1,0 +1,16 @@
+Source Changelog
+- Merged August security patch
+- Fixed fingerprint icon showing in pocket mode
+- Fixed notification vibration pattern settings
+- Fixed silent notification if active not working
+- Fixed secure QS tiles settings toggle
+- Fixed Google search not working on Pixel Launcher
+- Fixed Internet tile showing no service
+- Stability improvements and minor fixes
+
+ Device Changelog
+- 8/8 Pro: Update blobs from OOS 13.1.0.590 (EX01)
+- 8T/9R: Update blobs from OOS 14.0.0.601 (EX01)
+
+Note
+- For 8T/9R, OTA is blocked. Make sure flash OOS 14 firmware before booting into system, otherwise you will get issues like broken sensors.
