@@ -1,0 +1,4 @@
+Source Changelog
+- Merged September security patch
+- Updated default wallpaper and boot animation
+- Stability improvements and minor fixes
