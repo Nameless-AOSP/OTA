@@ -1,0 +1,10 @@
+Source Changelog
+- Merged September security patch
+- Fixed touch on screen bottom corners
+
+ Device Changelog
+- Fixed random freeze issue
+- Fixed 5G mode switch
+
+Note
+- This build is final Android 14 release
